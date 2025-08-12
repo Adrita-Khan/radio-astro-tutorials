@@ -52,28 +52,32 @@ This project is licensed under the MIT License.
 
 
 
-## 📖 References
+##  References
 
 1. [SKA SA: Radio Astronomy Honours Tutorials](https://github.com/ska-sa/tutorials/tree/master/2_Radio_Astronomy_Honours)  
-2. [SKA SA: Radio Astronomy for Beginners](https://github.com/ska-sa/radio-astronomy-for-beginners)  
-3. [SKA SA: Tutorials Main Repository](https://github.com/ska-sa/tutorials/tree/master)  
-4. [ezRA by tedcline](https://github.com/tedcline/ezRA)  
-5. [Philippe Salome - Radio Astronomy Tools](https://github.com/PhilippeSalome/radio-astro)  
-6. [WVURAIL DSPIRA Project](https://github.com/WVURAIL/dspira)  
-7. [WVURAIL DSPIRA Lab 03](https://github.com/WVURAIL/dspira/tree/master/labs/03)  
-8. [WVURAIL DSPIRA Lab 04](https://github.com/WVURAIL/dspira/tree/master/labs/04)  
-9. [WVURAIL DSPIRA Lab 05](https://github.com/WVURAIL/dspira/tree/master/labs/05)  
-10. [Radio Astro Tools Tutorials](https://radio-astro-tools.github.io/tutorials/)  
-11. [NJIT Radio Astronomy Lecture 4](https://web.njit.edu/~gary/728/Lecture4.html)  
+2. [SKA SA: Tutorials Main Repository](https://github.com/ska-sa/tutorials/tree/master)  
+3. [ezRA by tedcline](https://github.com/tedcline/ezRA)  
+4. [Philippe Salome – Radio Astronomy Tools](https://github.com/PhilippeSalome/radio-astro)  
+5. [WVURAIL DSPIRA Project](https://github.com/WVURAIL/dspira)  
+6. [WVURAIL DSPIRA Lab 03](https://github.com/WVURAIL/dspira/tree/master/labs/03)  
+7. [WVURAIL DSPIRA Lab 04](https://github.com/WVURAIL/dspira/tree/master/labs/04)  
+8. [WVURAIL DSPIRA Lab 05](https://github.com/WVURAIL/dspira/tree/master/labs/05)  
+9. [Radio Astro Tools Tutorials](https://radio-astro-tools.github.io/tutorials/)  
+10. [NJIT Radio Astronomy Lecture 4](https://web.njit.edu/~gary/728/Lecture4.html)  
+11. [NJIT Radio Astronomy Lecture 6](https://web.njit.edu/~gary/728/Lecture6.html)  
 12. [Data Science 1 Lecture PDF](https://agiseti.com/assets/files/DataScience1Lecture.pdf)  
-13. [S. Ransom - Pulsar Astronomy](https://www.cv.nrao.edu/~sransom/web/A1.html)  
+13. [S. Ransom – Pulsar Astronomy](https://www.cv.nrao.edu/~sransom/web/A1.html)  
 14. [Wikipedia: Fast Fourier Transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)  
 15. [Radiometers PDF](https://home.ifa.hawaii.edu/users/jpw/classes/radio/lectures/radiometers.pdf)  
-16. [Daniel C. Jacobs - Radio Astronomy Class](https://danielcjacobs.com/teaching-students/raclass/)  
-17. [GBTaylor Astr423 Lecture 1 PDF](https://leo.phys.unm.edu/~gbtaylor/astr423/lectures/01_intro-part1.pdf)  
-18. [SKA SA: Radio Astronomy for Beginners (Duplicate Link)](https://github.com/ska-sa/radio-astronomy-for-beginners)  
-19. [NJIT Radio Astronomy Lecture 6](https://web.njit.edu/~gary/728/Lecture6.html)  
-22. *(more references as needed)*  
+16. [Daniel C. Jacobs – Radio Astronomy Class](https://danielcjacobs.com/teaching-students/raclass/)  
+17. [GBTaylor ASTR423 Lecture 1 PDF](https://leo.phys.unm.edu/~gbtaylor/astr423/lectures/01_intro-part1.pdf)  
+
+**SKA SA – Radio Astronomy for Beginners**  
+18. [Repository Overview](https://github.com/ska-sa/radio-astronomy-for-beginners)  
+19. [Basics of Imaging in Pictures – Jupyter Notebook](https://github.com/ska-sa/radio-astronomy-for-beginners/blob/master/BasicsOfInterferometry/Basics_of_Imaging_in_Pictures.ipynb)  
+20. [FFT Concepts Directory](https://github.com/ska-sa/radio-astronomy-for-beginners/tree/master/FFTconcepts)  
+
+21. *(more references as needed)*  
 
 
 ---
