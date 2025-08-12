@@ -55,6 +55,6 @@ This project is licensed under the MIT License.
 1. [SKA SA: Radio Astronomy Honours Tutorials](https://github.com/ska-sa/tutorials/tree/master/2_Radio_Astronomy_Honours)
 2. [SKA SA: Radio Astronomy for Beginners](https://github.com/ska-sa/radio-astronomy-for-beginners)
 3. [SKA SA: Tutorials Main Repository](https://github.com/ska-sa/tutorials/tree/master)
-4. *(Add more references as needed)*
+4. *(more references as needed)*
 
 ---
