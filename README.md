@@ -52,7 +52,7 @@ This project is licensed under the MIT License.
 
 
 
-##  References
+## References
 
 1. [SKA SA: Radio Astronomy Honours Tutorials](https://github.com/ska-sa/tutorials/tree/master/2_Radio_Astronomy_Honours)  
 2. [SKA SA: Tutorials Main Repository](https://github.com/ska-sa/tutorials/tree/master)  
@@ -77,7 +77,16 @@ This project is licensed under the MIT License.
 19. [Basics of Imaging in Pictures – Jupyter Notebook](https://github.com/ska-sa/radio-astronomy-for-beginners/blob/master/BasicsOfInterferometry/Basics_of_Imaging_in_Pictures.ipynb)  
 20. [FFT Concepts Directory](https://github.com/ska-sa/radio-astronomy-for-beginners/tree/master/FFTconcepts)  
 
-21. *(more references as needed)*  
+### YouTube Videos:
+21. [Video 1](https://www.youtube.com/watch?v=QHXHu13p158)  
+22. [Video 2](https://www.youtube.com/watch?v=uCPazA_-rmg)  
+23. [Video 3](https://www.youtube.com/watch?v=Jm8MKZ39I8I)  
+24. [Video 4](https://www.youtube.com/watch?v=G6AvRY-QyFE)  
+25. [Video 5](https://www.youtube.com/watch?v=E7DeaDzWgjI)  
+26. [Video 6](https://www.youtube.com/watch?v=Q7qGlYNDxmo)
+
+*(more references as needed)*
+
 
 
 ---
