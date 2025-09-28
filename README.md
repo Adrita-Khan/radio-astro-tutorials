@@ -1,4 +1,4 @@
-# Radio Astronomy ML Tutorials
+# Radio Astronomy Tutorials
 
 A collection of hands-on tutorials for **radio astronomy** using **Python**, **machine learning**, and **signal processing**.  
 This repository is designed for students, researchers, and enthusiasts who want to learn how to process, analyze, and interpret radio astronomy data.
