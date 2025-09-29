@@ -3,7 +3,7 @@
 A collection of hands-on tutorials for **radio astronomy** using **Python**, **machine learning**, and **signal processing**.  
 This repository is designed for students, researchers, and enthusiasts who want to learn how to process, analyze, and interpret radio astronomy data.
 
-## 📚 Topics Covered
+## Topics Covered
 
 - Radio astronomy fundamentals
 - Python for astronomical data analysis
@@ -12,7 +12,7 @@ This repository is designed for students, researchers, and enthusiasts who want 
 - Pulsar search and analysis
 - Spectral line studies
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.9+
 - NumPy, SciPy, Matplotlib
@@ -25,7 +25,7 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-## 📂 Structure
+## Structure
 
 ```
 .
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
