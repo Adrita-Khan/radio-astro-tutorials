@@ -35,16 +35,7 @@ pip install -r requirements.txt
 └── README.md
 ```
 
-## 🚀 Getting Started
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/radio-astro-ml-tutorials.git
-```
-
-2. Install the dependencies.
-3. Open a tutorial in `notebooks/` and start learning.
 
 ## 📜 License
 
