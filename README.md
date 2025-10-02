@@ -28,7 +28,6 @@ pip install -r requirements.txt
 ## Structure
 
 ```
-.
 ├── notebooks/         # Jupyter notebooks with step-by-step tutorials
 ├── data/              # Sample datasets
 ├── scripts/           # Python scripts for automation
